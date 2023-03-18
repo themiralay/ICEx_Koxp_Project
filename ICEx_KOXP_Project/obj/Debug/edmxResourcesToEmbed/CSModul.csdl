@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ICExProjectModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="cs_keys">
+    <Key>
+      <PropertyRef Name="key_id" />
+    </Key>
+    <Property Name="key_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="user_id" Type="Int32" Nullable="false" />
+    <Property Name="key_code" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="key_day" Type="Int32" Nullable="false" />
+    <Property Name="key_who" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="key_statu" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="cs_settings">
+    <Key>
+      <PropertyRef Name="cs_setID" />
+    </Key>
+    <Property Name="cs_setID" Type="Int32" Nullable="false" />
+    <Property Name="cs_message" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="cs_messageactive" Type="Boolean" Nullable="false" />
+    <Property Name="cs_date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="cs_active" Type="Boolean" Nullable="false" />
+    <Property Name="cs_loginactive" Type="Boolean" Nullable="false" />
+    <Property Name="cs_freetime" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="cs_users">
+    <Key>
+      <PropertyRef Name="user_id" />
+    </Key>
+    <Property Name="user_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="user_name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="user_pass" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="user_createdate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="user_lastlogin" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="user_enddate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="user_online" Type="Boolean" Nullable="false" />
+    <Property Name="user_hdd" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="ICExProject" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="cs_keys" EntityType="Self.cs_keys" />
+    <EntitySet Name="cs_settings" EntityType="Self.cs_settings" />
+    <EntitySet Name="cs_users" EntityType="Self.cs_users" />
+  </EntityContainer>
+</Schema>

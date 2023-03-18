@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>JSON</id>
+    <version>1.0.1</version>
+    <title>JSON</title>
+    <authors>Daniel Crenna</authors>
+    <owners>Daniel Crenna</owners>
+    <licenseUrl>https://github.com/danielcrenna/json/blob/master/LICENSE</licenseUrl>
+    <projectUrl>http://github.com/danielcrenna/json</projectUrl>
+    <iconUrl>http://apitize.com.s3.amazonaws.com/logo_json.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A JSON parser in C#, supporting dynamic deserialization in .NET 4.0</description>
+    <summary>A JSON parser in C#, supporting dynamic deserialization in .NET 4.0. A JSON parser in C#, supporting dynamic deserialization in .NET 4.0. Runs on .NET 3.5, .NET 4.0, Silverlight, and Windows Phone.</summary>
+    <tags>JSON parser</tags>
+  </metadata>
+</package>

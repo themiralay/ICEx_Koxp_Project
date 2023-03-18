@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CsprojectModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="cs_keys">
+    <Key>
+      <PropertyRef Name="key_id" />
+    </Key>
+    <Property Name="key_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="user_id" Type="int" Nullable="false" />
+    <Property Name="key_code" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="key_day" Type="int" Nullable="false" />
+    <Property Name="key_who" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="key_statu" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="cs_settings">
+    <Key>
+      <PropertyRef Name="cs_setID" />
+    </Key>
+    <Property Name="cs_setID" Type="int" Nullable="false" />
+    <Property Name="cs_message" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="cs_messageactive" Type="bit" Nullable="false" />
+    <Property Name="cs_date" Type="datetime" Nullable="false" />
+    <Property Name="cs_active" Type="bit" Nullable="false" />
+    <Property Name="cs_loginactive" Type="bit" Nullable="false" />
+    <Property Name="cs_freetime" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="cs_users">
+    <Key>
+      <PropertyRef Name="user_id" />
+    </Key>
+    <Property Name="user_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="user_name" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="user_pass" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="user_createdate" Type="smalldatetime" Nullable="false" />
+    <Property Name="user_lastlogin" Type="smalldatetime" Nullable="false" />
+    <Property Name="user_enddate" Type="smalldatetime" Nullable="false" />
+    <Property Name="user_online" Type="bit" Nullable="false" />
+    <Property Name="user_hdd" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityContainer Name="CsprojectModelStoreContainer">
+    <EntitySet Name="cs_keys" EntityType="Self.cs_keys" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="cs_settings" EntityType="Self.cs_settings" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="cs_users" EntityType="Self.cs_users" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

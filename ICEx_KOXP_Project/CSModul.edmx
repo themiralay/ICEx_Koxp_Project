@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="ICExProjectModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="cs_keys">
+          <Key>
+            <PropertyRef Name="key_id" />
+          </Key>
+          <Property Name="key_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="user_id" Type="int" Nullable="false" />
+          <Property Name="key_code" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="key_day" Type="int" Nullable="false" />
+          <Property Name="key_who" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="key_statu" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="cs_settings">
+          <Key>
+            <PropertyRef Name="cs_setID" />
+          </Key>
+          <Property Name="cs_setID" Type="int" Nullable="false" />
+          <Property Name="cs_message" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="cs_messageactive" Type="bit" Nullable="false" />
+          <Property Name="cs_date" Type="datetime" Nullable="false" />
+          <Property Name="cs_active" Type="bit" Nullable="false" />
+          <Property Name="cs_loginactive" Type="bit" Nullable="false" />
+          <Property Name="cs_freetime" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="cs_users">
+          <Key>
+            <PropertyRef Name="user_id" />
+          </Key>
+          <Property Name="user_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="user_name" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="user_pass" Type="nvarchar" MaxLength="150" Nullable="false" />
+          <Property Name="user_createdate" Type="smalldatetime" Nullable="false" />
+          <Property Name="user_lastlogin" Type="smalldatetime" Nullable="false" />
+          <Property Name="user_enddate" Type="smalldatetime" Nullable="false" />
+          <Property Name="user_online" Type="bit" Nullable="false" />
+          <Property Name="user_hdd" Type="nvarchar" MaxLength="100" />
+        </EntityType>
+        <EntityContainer Name="ICExProjectModelStoreContainer">
+          <EntitySet Name="cs_keys" EntityType="Self.cs_keys" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="cs_settings" EntityType="Self.cs_settings" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="cs_users" EntityType="Self.cs_users" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="ICExProjectModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="cs_keys">
+          <Key>
+            <PropertyRef Name="key_id" />
+          </Key>
+          <Property Name="key_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="user_id" Type="Int32" Nullable="false" />
+          <Property Name="key_code" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="key_day" Type="Int32" Nullable="false" />
+          <Property Name="key_who" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="key_statu" Type="Boolean" Nullable="false" />
+        </EntityType>
+        <EntityType Name="cs_settings">
+          <Key>
+            <PropertyRef Name="cs_setID" />
+          </Key>
+          <Property Name="cs_setID" Type="Int32" Nullable="false" />
+          <Property Name="cs_message" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="cs_messageactive" Type="Boolean" Nullable="false" />
+          <Property Name="cs_date" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="cs_active" Type="Boolean" Nullable="false" />
+          <Property Name="cs_loginactive" Type="Boolean" Nullable="false" />
+          <Property Name="cs_freetime" Type="Boolean" Nullable="false" />
+        </EntityType>
+        <EntityType Name="cs_users">
+          <Key>
+            <PropertyRef Name="user_id" />
+          </Key>
+          <Property Name="user_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="user_name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="user_pass" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="user_createdate" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="user_lastlogin" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="user_enddate" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="user_online" Type="Boolean" Nullable="false" />
+          <Property Name="user_hdd" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityContainer Name="ICExProject" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="cs_keys" EntityType="Self.cs_keys" />
+          <EntitySet Name="cs_settings" EntityType="Self.cs_settings" />
+          <EntitySet Name="cs_users" EntityType="Self.cs_users" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="ICExProjectModelStoreContainer" CdmEntityContainer="ICExProject">
+          <EntitySetMapping Name="cs_keys">
+            <EntityTypeMapping TypeName="ICExProjectModel.cs_keys">
+              <MappingFragment StoreEntitySet="cs_keys">
+                <ScalarProperty Name="key_id" ColumnName="key_id" />
+                <ScalarProperty Name="user_id" ColumnName="user_id" />
+                <ScalarProperty Name="key_code" ColumnName="key_code" />
+                <ScalarProperty Name="key_day" ColumnName="key_day" />
+                <ScalarProperty Name="key_who" ColumnName="key_who" />
+                <ScalarProperty Name="key_statu" ColumnName="key_statu" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="cs_settings">
+            <EntityTypeMapping TypeName="ICExProjectModel.cs_settings">
+              <MappingFragment StoreEntitySet="cs_settings">
+                <ScalarProperty Name="cs_freetime" ColumnName="cs_freetime" />
+                <ScalarProperty Name="cs_setID" ColumnName="cs_setID" />
+                <ScalarProperty Name="cs_message" ColumnName="cs_message" />
+                <ScalarProperty Name="cs_messageactive" ColumnName="cs_messageactive" />
+                <ScalarProperty Name="cs_date" ColumnName="cs_date" />
+                <ScalarProperty Name="cs_active" ColumnName="cs_active" />
+                <ScalarProperty Name="cs_loginactive" ColumnName="cs_loginactive" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="cs_users">
+            <EntityTypeMapping TypeName="ICExProjectModel.cs_users">
+              <MappingFragment StoreEntitySet="cs_users">
+                <ScalarProperty Name="user_id" ColumnName="user_id" />
+                <ScalarProperty Name="user_name" ColumnName="user_name" />
+                <ScalarProperty Name="user_pass" ColumnName="user_pass" />
+                <ScalarProperty Name="user_createdate" ColumnName="user_createdate" />
+                <ScalarProperty Name="user_lastlogin" ColumnName="user_lastlogin" />
+                <ScalarProperty Name="user_enddate" ColumnName="user_enddate" />
+                <ScalarProperty Name="user_online" ColumnName="user_online" />
+                <ScalarProperty Name="user_hdd" ColumnName="user_hdd" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

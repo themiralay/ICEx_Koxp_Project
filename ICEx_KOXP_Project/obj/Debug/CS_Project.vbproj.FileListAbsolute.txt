@@ -1,0 +1,63 @@
+C:\Users\Can Sayan\Desktop\CS_Project_Source_Entity\CS_Project\bin\Debug\CS_Project.exe.config
+C:\Users\Can Sayan\Desktop\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.exe
+C:\Users\Can Sayan\Desktop\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.xml
+C:\Users\Can Sayan\Desktop\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.pdb
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Debug\CS_Project.exe.config
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.exe
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.xml
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.pdb
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Debug\CS_Project.exe
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Debug\CS_Project.pdb
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Debug\CS_Project.xml
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Debug\EntityFramework.dll
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Debug\EntityFramework.xml
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.frm_0Login.resources
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.frm_1Giris.resources
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.frm_2Genel.resources
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.frm_3Recv.resources
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.Resources.resources
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.vbproj.GenerateResource.Cache
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.vbprojResolveAssemblyReference.cache
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Debug\CS_Project.exe.config
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.exe
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.xml
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.pdb
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Debug\CS_Project.exe
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Debug\CS_Project.pdb
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Debug\CS_Project.xml
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Debug\EntityFramework.dll
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Debug\EntityFramework.xml
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.vbprojResolveAssemblyReference.cache
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.frm_0Login.resources
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.frm_1Giris.resources
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.frm_2Genel.resources
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.frm_3Recv.resources
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.Resources.resources
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.vbproj.GenerateResource.Cache
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Debug\Json.dll
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Debug\Json.pdb
+C:\Users\AntonVanko\Desktop\CS_Project_Source_Entity\CS_Project_Source_Entity\CS_Project\bin\Debug\CS_Project.exe.config
+C:\Users\AntonVanko\Desktop\CS_Project_Source_Entity\CS_Project_Source_Entity\CS_Project\bin\Debug\CS_Project.exe
+C:\Users\AntonVanko\Desktop\CS_Project_Source_Entity\CS_Project_Source_Entity\CS_Project\bin\Debug\CS_Project.pdb
+C:\Users\AntonVanko\Desktop\CS_Project_Source_Entity\CS_Project_Source_Entity\CS_Project\bin\Debug\CS_Project.xml
+C:\Users\AntonVanko\Desktop\CS_Project_Source_Entity\CS_Project_Source_Entity\CS_Project\bin\Debug\EntityFramework.dll
+C:\Users\AntonVanko\Desktop\CS_Project_Source_Entity\CS_Project_Source_Entity\CS_Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AntonVanko\Desktop\CS_Project_Source_Entity\CS_Project_Source_Entity\CS_Project\bin\Debug\Json.dll
+C:\Users\AntonVanko\Desktop\CS_Project_Source_Entity\CS_Project_Source_Entity\CS_Project\bin\Debug\EntityFramework.xml
+C:\Users\AntonVanko\Desktop\CS_Project_Source_Entity\CS_Project_Source_Entity\CS_Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AntonVanko\Desktop\CS_Project_Source_Entity\CS_Project_Source_Entity\CS_Project\bin\Debug\Json.pdb
+C:\Users\AntonVanko\Desktop\CS_Project_Source_Entity\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.vbprojResolveAssemblyReference.cache
+C:\Users\AntonVanko\Desktop\CS_Project_Source_Entity\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.frm_0Login.resources
+C:\Users\AntonVanko\Desktop\CS_Project_Source_Entity\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.frm_1Giris.resources
+C:\Users\AntonVanko\Desktop\CS_Project_Source_Entity\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.frm_2Genel.resources
+C:\Users\AntonVanko\Desktop\CS_Project_Source_Entity\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.frm_3Recv.resources
+C:\Users\AntonVanko\Desktop\CS_Project_Source_Entity\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.Resources.resources
+C:\Users\AntonVanko\Desktop\CS_Project_Source_Entity\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.vbproj.GenerateResource.Cache
+C:\Users\AntonVanko\Desktop\CS_Project_Source_Entity\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.vbproj.CoreCompileInputs.cache
+C:\Users\AntonVanko\Desktop\CS_Project_Source_Entity\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.exe
+C:\Users\AntonVanko\Desktop\CS_Project_Source_Entity\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.xml
+C:\Users\AntonVanko\Desktop\CS_Project_Source_Entity\CS_Project_Source_Entity\CS_Project\obj\Debug\CS_Project.pdb

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CsprojectModelStoreContainer" CdmEntityContainer="CSProject">
+    <EntitySetMapping Name="cs_keys">
+      <EntityTypeMapping TypeName="CsprojectModel.cs_keys">
+        <MappingFragment StoreEntitySet="cs_keys">
+          <ScalarProperty Name="key_id" ColumnName="key_id" />
+          <ScalarProperty Name="user_id" ColumnName="user_id" />
+          <ScalarProperty Name="key_code" ColumnName="key_code" />
+          <ScalarProperty Name="key_day" ColumnName="key_day" />
+          <ScalarProperty Name="key_who" ColumnName="key_who" />
+          <ScalarProperty Name="key_statu" ColumnName="key_statu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cs_settings">
+      <EntityTypeMapping TypeName="CsprojectModel.cs_settings">
+        <MappingFragment StoreEntitySet="cs_settings">
+          <ScalarProperty Name="cs_freetime" ColumnName="cs_freetime" />
+          <ScalarProperty Name="cs_setID" ColumnName="cs_setID" />
+          <ScalarProperty Name="cs_message" ColumnName="cs_message" />
+          <ScalarProperty Name="cs_messageactive" ColumnName="cs_messageactive" />
+          <ScalarProperty Name="cs_date" ColumnName="cs_date" />
+          <ScalarProperty Name="cs_active" ColumnName="cs_active" />
+          <ScalarProperty Name="cs_loginactive" ColumnName="cs_loginactive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cs_users">
+      <EntityTypeMapping TypeName="CsprojectModel.cs_users">
+        <MappingFragment StoreEntitySet="cs_users">
+          <ScalarProperty Name="user_id" ColumnName="user_id" />
+          <ScalarProperty Name="user_name" ColumnName="user_name" />
+          <ScalarProperty Name="user_pass" ColumnName="user_pass" />
+          <ScalarProperty Name="user_createdate" ColumnName="user_createdate" />
+          <ScalarProperty Name="user_lastlogin" ColumnName="user_lastlogin" />
+          <ScalarProperty Name="user_enddate" ColumnName="user_enddate" />
+          <ScalarProperty Name="user_online" ColumnName="user_online" />
+          <ScalarProperty Name="user_hdd" ColumnName="user_hdd" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

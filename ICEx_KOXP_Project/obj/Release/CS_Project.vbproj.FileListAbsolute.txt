@@ -1,0 +1,83 @@
+C:\Users\Can Sayan\Desktop\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\obj\Release\CS_Project.exe
+C:\Users\Can Sayan\Desktop\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\obj\Release\CS_Project.xml
+C:\Users\Can Sayan\Desktop\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\obj\Release\CS_Project.pdb
+C:\Users\Can Sayan\Desktop\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\bin\Release\CS_Project.exe
+C:\Users\Can Sayan\Desktop\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\bin\Release\CS_Project.pdb
+C:\Users\Can Sayan\Desktop\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\bin\Release\CS_Project.xml
+C:\Users\Can Sayan\Desktop\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\obj\Release\CS_Project.frm_0Login.resources
+C:\Users\Can Sayan\Desktop\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\obj\Release\CS_Project.frm_1Giris.resources
+C:\Users\Can Sayan\Desktop\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\obj\Release\CS_Project.frm_2Genel.resources
+C:\Users\Can Sayan\Desktop\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\obj\Release\CS_Project.frm_3Recv.resources
+C:\Users\Can Sayan\Desktop\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\obj\Release\CS_Project.Resources.resources
+C:\Users\Can Sayan\Desktop\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\obj\Release\CS_Project.vbproj.GenerateResource.Cache
+C:\Users\Can Sayan\Desktop\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\obj\Release\CS_Project.vbprojResolveAssemblyReference.cache
+C:\Users\Can Sayan\Desktop\KO Document\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\obj\Release\CS_Project.exe
+C:\Users\Can Sayan\Desktop\KO Document\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\obj\Release\CS_Project.xml
+C:\Users\Can Sayan\Desktop\KO Document\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\obj\Release\CS_Project.pdb
+C:\Users\Can Sayan\Desktop\KO Document\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\bin\Release\CS_Project.exe
+C:\Users\Can Sayan\Desktop\KO Document\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\bin\Release\CS_Project.pdb
+C:\Users\Can Sayan\Desktop\KO Document\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\bin\Release\CS_Project.xml
+C:\Users\Can Sayan\Desktop\KO Document\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\obj\Release\CS_Project.frm_0Login.resources
+C:\Users\Can Sayan\Desktop\KO Document\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\obj\Release\CS_Project.frm_1Giris.resources
+C:\Users\Can Sayan\Desktop\KO Document\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\obj\Release\CS_Project.frm_2Genel.resources
+C:\Users\Can Sayan\Desktop\KO Document\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\obj\Release\CS_Project.frm_3Recv.resources
+C:\Users\Can Sayan\Desktop\KO Document\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\obj\Release\CS_Project.Resources.resources
+C:\Users\Can Sayan\Desktop\KO Document\CS Project Source Code\CS_Project_Source\CS_Project_Source\CS_Project\obj\Release\CS_Project.vbproj.GenerateResource.Cache
+C:\Users\DCanS\Desktop\CS_Project_Source\CS_Project\bin\Release\CS_Project.exe.config
+C:\Users\DCanS\Desktop\CS_Project_Source\CS_Project\obj\Release\CS_Project.exe
+C:\Users\DCanS\Desktop\CS_Project_Source\CS_Project\obj\Release\CS_Project.xml
+C:\Users\DCanS\Desktop\CS_Project_Source\CS_Project\obj\Release\CS_Project.pdb
+C:\Users\DCanS\Desktop\CS_Project_Source\CS_Project\bin\Release\CS_Project.exe
+C:\Users\DCanS\Desktop\CS_Project_Source\CS_Project\bin\Release\CS_Project.pdb
+C:\Users\DCanS\Desktop\CS_Project_Source\CS_Project\bin\Release\CS_Project.xml
+C:\Users\DCanS\Desktop\CS_Project_Source\CS_Project\bin\Release\EntityFramework.dll
+C:\Users\DCanS\Desktop\CS_Project_Source\CS_Project\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\DCanS\Desktop\CS_Project_Source\CS_Project\bin\Release\EntityFramework.xml
+C:\Users\DCanS\Desktop\CS_Project_Source\CS_Project\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\DCanS\Desktop\CS_Project_Source\CS_Project\obj\Release\CS_Project.vbprojResolveAssemblyReference.cache
+C:\Users\DCanS\Desktop\CS_Project_Source\CS_Project\obj\Release\CS_Project.frm_0Login.resources
+C:\Users\DCanS\Desktop\CS_Project_Source\CS_Project\obj\Release\CS_Project.frm_1Giris.resources
+C:\Users\DCanS\Desktop\CS_Project_Source\CS_Project\obj\Release\CS_Project.frm_2Genel.resources
+C:\Users\DCanS\Desktop\CS_Project_Source\CS_Project\obj\Release\CS_Project.frm_3Recv.resources
+C:\Users\DCanS\Desktop\CS_Project_Source\CS_Project\obj\Release\CS_Project.Resources.resources
+C:\Users\DCanS\Desktop\CS_Project_Source\CS_Project\obj\Release\CS_Project.vbproj.GenerateResource.Cache
+C:\Users\Can Sayan\Desktop\CS_Project_Source_Entity\CS_Project\bin\Release\CS_Project.exe.config
+C:\Users\Can Sayan\Desktop\CS_Project_Source_Entity\CS_Project\obj\Release\CS_Project.exe
+C:\Users\Can Sayan\Desktop\CS_Project_Source_Entity\CS_Project\obj\Release\CS_Project.xml
+C:\Users\Can Sayan\Desktop\CS_Project_Source_Entity\CS_Project\obj\Release\CS_Project.pdb
+C:\Users\Can Sayan\Desktop\CS_Project_Source_Entity\CS_Project\bin\Release\CS_Project.exe
+C:\Users\Can Sayan\Desktop\CS_Project_Source_Entity\CS_Project\bin\Release\CS_Project.pdb
+C:\Users\Can Sayan\Desktop\CS_Project_Source_Entity\CS_Project\bin\Release\CS_Project.xml
+C:\Users\Can Sayan\Desktop\CS_Project_Source_Entity\CS_Project\bin\Release\EntityFramework.dll
+C:\Users\Can Sayan\Desktop\CS_Project_Source_Entity\CS_Project\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Can Sayan\Desktop\CS_Project_Source_Entity\CS_Project\bin\Release\EntityFramework.xml
+C:\Users\Can Sayan\Desktop\CS_Project_Source_Entity\CS_Project\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Can Sayan\Desktop\CS_Project_Source_Entity\CS_Project\obj\Release\CS_Project.vbprojResolveAssemblyReference.cache
+C:\Users\Can Sayan\Desktop\CS_Project_Source_Entity\CS_Project\obj\Release\CS_Project.frm_0Login.resources
+C:\Users\Can Sayan\Desktop\CS_Project_Source_Entity\CS_Project\obj\Release\CS_Project.frm_1Giris.resources
+C:\Users\Can Sayan\Desktop\CS_Project_Source_Entity\CS_Project\obj\Release\CS_Project.frm_2Genel.resources
+C:\Users\Can Sayan\Desktop\CS_Project_Source_Entity\CS_Project\obj\Release\CS_Project.frm_3Recv.resources
+C:\Users\Can Sayan\Desktop\CS_Project_Source_Entity\CS_Project\obj\Release\CS_Project.Resources.resources
+C:\Users\Can Sayan\Desktop\CS_Project_Source_Entity\CS_Project\obj\Release\CS_Project.vbproj.GenerateResource.Cache
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Release\CS_Project.exe.config
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Release\CS_Project.exe
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Release\CS_Project.xml
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Release\CS_Project.pdb
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Release\CS_Project.exe
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Release\CS_Project.pdb
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Release\CS_Project.xml
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Release\EntityFramework.dll
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Release\EntityFramework.SqlServer.dll
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Release\EntityFramework.xml
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Release\EntityFramework.SqlServer.xml
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Release\CS_Project.frm_0Login.resources
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Release\CS_Project.frm_1Giris.resources
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Release\CS_Project.frm_2Genel.resources
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Release\CS_Project.frm_3Recv.resources
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Release\CS_Project.Resources.resources
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Release\CS_Project.vbproj.GenerateResource.Cache
+D:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Release\CS_Project.vbprojResolveAssemblyReference.cache
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\bin\Release\CS_Project.exe.config
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Release\CS_Project.exe
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Release\CS_Project.xml
+E:\Projects\Update Now\CS_Project_Source_Entity\CS_Project\obj\Release\CS_Project.pdb
